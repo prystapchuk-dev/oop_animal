@@ -13,12 +13,12 @@ class Animal
 	
 	protected function eat()
 	{
-		
+		echo 'Я їм';
 	}
 	
 	protected function sleep()
 	{
-		
+		echo 'Я сплю';
 	}
 }
 
